@@ -8,6 +8,6 @@
 
 ## APP PREVIEW
  
-D![TO-D0 APP](https://github.com/Adarsh-010101/TO-DO-LIST.github.io/assets/98680538/3d14494f-422e-4620-a287-614a8fec4e47)
+![TO-D0 APP](https://github.com/Adarsh-010101/TO-DO-LIST.github.io/assets/98680538/3d14494f-422e-4620-a287-614a8fec4e47)
 
 Thank you :D
